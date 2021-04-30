@@ -1,6 +1,6 @@
 # Generador automático de colores
 
-##### Mi primera app de Flutter con el uso del widget Stateful.
+##### De mis primeras apps de Flutter con el uso del widget Stateful.
 
 Simple generador de colores aleatorios en formato RGB.
 
