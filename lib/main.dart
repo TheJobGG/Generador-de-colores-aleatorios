@@ -142,8 +142,8 @@ class _BackgroundState extends State<Background> {
   }
 }
 
-// Método que genera 3 números de forma aleatoria que van del 0 al 255
-// , rango en el que los colores RGB funcionan. El primer número es 
+// Método que genera 3 números de forma aleatoria que van del 0 al 255, 
+// rango en el que los colores RGB funcionan. El primer número es 
 // asignado al color "rojo" (R**), el segundo al "verde" (*G*) y el
 // tercero al color azul (**B) conformando el color aleatorio en 
 // formato RGB. Estos los guarda en el array que es pedido como 
